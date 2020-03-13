@@ -14,7 +14,7 @@ class App extends React.Component {
       <Router>
       <div className="App"> 
        <Switch>
-          <Route exact path="/">
+          <Route exact path="/react-quiz">
             <StartScreen />
           </Route>
           <Route path="/web">

@@ -7,10 +7,6 @@ import MyFooter from '../../components/footer';
 
 class WebView extends Component {
   render() {
-    {/*const style = {
-      color: 'yellow',
-    }*/}
-    
     return (
       <div className="web">
       <MyHeader />
