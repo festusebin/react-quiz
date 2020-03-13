@@ -1,0 +1,77 @@
+/* Header Style Below */
+
+header {
+  width: 98vw;
+  margin: auto;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 5%;
+  background-color: #2b2e2c;
+  margin-top: 10px;
+}
+
+header ul li {
+  display: inline-block;
+  padding: 7px;
+}
+
+header li a {
+  color: white;
+  text-decoration: none;
+}
+
+header li a.active, header li a:hover {
+  color: #508d71;
+  transition: color 0.4s ease-in-out;
+}
+
+/* NavBar Style Below */
+
+nav {
+  width: 98vw;
+  margin: auto;
+  padding: 10px 5%;
+  background-color: #2b2e2c;
+  margin-top: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  transition: color 0.4s ease-in-out;
+  cursor: pointer;
+}
+
+nav li:hover {
+  color: #508d71;
+}
+
+/* Footer Styles Below  */
+
+footer {
+  width: 98vw;
+  margin: auto;
+  background-color: #2b2e2c;
+  color: white;
+  text-align: center;
+  padding: 5px 5%;
+  border-radius: 5px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+/* SideBar/Main Style Below */
+
+aside, main {
+  background-color: #2b2e2c;
+  color: white;
+}
+
+aside ul li {
+  list-style: none;
+}
