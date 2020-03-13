@@ -2,6 +2,8 @@
 
 This is a [simple layout for a tutoring react Quiz app](https://festusebin.github.io/tutor-site).
 
+## Thank you
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
