@@ -1,6 +1,6 @@
 ## This is a simple react Quiz app
 
-This is a [simple layout for a react Quiz app](https://festusebin.github.io/tutor-site/).
+This is a [simple layout for a react Quiz app](https://festusebin.github.io/react-quiz/).
 
 ### `Thank you`
 
